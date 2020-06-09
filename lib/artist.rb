@@ -15,5 +15,6 @@ class Songs
 
     @title = title
     @artist = artist
-    
+  end
+
 end
