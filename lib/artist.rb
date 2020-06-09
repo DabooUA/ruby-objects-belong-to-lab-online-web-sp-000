@@ -7,13 +7,3 @@ class Artist
     @genre = genre
   end
 end
-
-class Song
-
-  attr_accessor :title, :artist
-
-  def initialize(title)
-    @title = title
-    @artist = artist
-  end
-end
