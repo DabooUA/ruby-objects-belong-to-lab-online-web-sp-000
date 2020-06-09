@@ -8,7 +8,7 @@ class Artist
   end
 end
 
-class Songs
+class Song
 
   attr_accessor :title, :artist
 
